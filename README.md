@@ -38,3 +38,19 @@
 ---
 
 🪄 *Библиотека пополняется по мере выхода новых проектов.*
+---
+
+## 📂 Projects inside
+
+| Project | Description |
+|----------|-------------|
+| [🧠 Eroha-Pro](https://github.com/Eroha68/eroha-pro) | Главная AI-система и мультиагентная платформа |
+| [💹 Eroha-MarketKit](https://github.com/Eroha68/Eroha-MarketKit) | Инструменты аналитики и автоматизации торговли |
+| [📚 Kaz-Language-Textbook](https://github.com/Eroha68/kaz-language-textbook) | Учебник казахского языка (многоуровневый курс A1–C2) |
+| [🎨 Awesome-CryptoPunks-Bubble-Pro](https://github.com/Eroha68/awesome-cryptopunks-bubble-pro) | NFT-коллекция в духе CryptoPunks |
+| [⚙️ Skills-Introduction-to-Git](https://github.com/Eroha68/skills-introduction-to-git) | Учебный проект для освоения Git и GitHub |
+
+---
+
+🔗 **Explore all projects:**  
+➡️ [github.com/Eroha68](https://github.com/Eroha68)
